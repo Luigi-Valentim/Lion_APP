@@ -12,13 +12,6 @@ Este projeto é um **painel de controle financeiro pessoal** desenvolvido inteir
 - 🧭 **Navegação por links internos** entre as planilhas, simulando a experiência de um app.
 - 🎨 Design personalizado com formatação de células, ícones, imagens e cores.
 
-## 🖼️ Visual do Projeto
-
-> Todo o layout foi criado diretamente no Excel, simulando uma interface de aplicativo.
-
-| Tela Inicial | Contas Bancárias | Fluxo Financeiro |
-|--------------|------------------|------------------|
-| ![tela-1](caminho/para/imagem1.png) | ![tela-2](caminho/para/imagem2.png) | ![tela-3](caminho/para/imagem3.png) |
 
 ## 🧾 Como Usar
 
